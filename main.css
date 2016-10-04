@@ -1,0 +1,48 @@
+/* Google Stylesheet */
+html body {
+  height:100%;
+}
+
+body {
+
+  display:inline-block;
+  text-align: center;
+  vertical-align: middle;
+  margin:auto;
+  
+  width:100%;
+
+}
+
+#main-google {
+  display: block;
+  margin:auto;
+}
+
+p {
+  vertical-align: middle;
+}
+
+p img {
+  height:32px;
+  width:32px;
+  vertical-align: bottom;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
+footer {
+  clear:both;
+  position: absolute;
+  bottom:0;
+  right:0;
+  left:0;
+}
+
+#right-foot {
+  float:right;
+}
+
+#left-foot {
+  float:left;
+}
